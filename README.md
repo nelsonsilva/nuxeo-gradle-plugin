@@ -31,6 +31,10 @@ nuxeo {
 
 ```
 
+## Examples
+
+[nuxeo-sample-project](https://github.com/nelsonsilva/nuxeo-sample-project/tree/gradle)
+
 ## Tasks
 
 - nuxeo-start
